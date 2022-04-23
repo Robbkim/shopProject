@@ -23,10 +23,11 @@
 
 # 상세 자료
 
+* 프로젝트 
 * diagram 
- * usecase
- * class
- * sequence
+  * usecase
+  * class
+  * sequence
 * 구현
 [shopProject(김영훈).pptx](https://github.com/Robbkim/shopProject/files/8546256/shopProject.pptx)
 
